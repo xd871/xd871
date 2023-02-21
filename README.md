@@ -2,7 +2,7 @@
 
 * computer science, network
 
-* developer (c, go)
+* novice developer (c, go)
 
 * comprehension (c, cpp, go, py, v)
 
