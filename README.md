@@ -1,4 +1,4 @@
-* anaylst (exploit, opsec)
+* basic forensics & re
 
 * computer science, network
 
